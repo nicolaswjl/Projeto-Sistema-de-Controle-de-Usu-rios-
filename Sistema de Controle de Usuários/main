@@ -1,0 +1,48 @@
+# 🔐 Sistema de Controle de Usuários
+
+Este projeto consiste em um sistema simples de gerenciamento de usuários com autenticação, desenvolvido em Python, com foco em lógica de programação e organização de dados.
+
+---
+
+## 📌 Funcionalidades
+
+- 👤 Cadastro de usuários (login e senha)
+- 🔐 Sistema de login
+- 📋 Listagem de usuários cadastrados
+- ❌ Remoção de usuários
+
+---
+
+## 🧠 Tecnologias utilizadas
+
+- Python
+
+---
+
+## 🎯 Objetivo
+
+O objetivo deste projeto é praticar conceitos fundamentais de programação, como:
+
+- Estruturas condicionais
+- Laços de repetição
+- Listas e dicionários
+- Validação de dados
+- Lógica de autenticação
+
+---
+
+## ▶️ Como executar
+
+1. Certifique-se de ter o Python instalado
+2. Baixe ou clone este repositório
+3. Execute o arquivo:
+
+=== SISTEMA DE USUÁRIOS ===
+1 - Cadastrar usuário
+2 - Fazer login
+3 - Listar usuários
+4 - Remover usuário
+5 - Sair
+
+```bash
+python nome_do_arquivo.py
